@@ -5,7 +5,7 @@ Home: https://github.com/MiCHiLU/python-functools32
 
 Package license: PSF license
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Backport of the functools module from Python 3.2.3 for use on 2.7 and PyPy.
 
@@ -69,9 +69,15 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/functools32-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/functools32-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/functools32-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/functools32-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/functools32-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/functools32-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/functools32/badges/version.svg)](https://anaconda.org/conda-forge/functools32)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/functools32/badges/downloads.svg)](https://anaconda.org/conda-forge/functools32)
 
 
 Updating functools32-feedstock
