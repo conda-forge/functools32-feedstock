@@ -23,7 +23,7 @@ test:
 
 about:
   home: https://github.com/MiCHiLU/python-functools32
-  license: PSF license
+  license: PSF 2
   summary: 'Backport of the functools module from Python 3.2.3 for use on 2.7 and PyPy.'
 
 extra:
