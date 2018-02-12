@@ -3,7 +3,7 @@ About functools32
 
 Home: https://github.com/MiCHiLU/python-functools32
 
-Package license: PSF license
+Package license: PSF 2
 
 Feedstock license: BSD 3-Clause
 
