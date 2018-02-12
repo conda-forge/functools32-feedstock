@@ -2,7 +2,7 @@
 {% set version = "3.2.3" %}
 {% set subversion = "2" %}
 {% set number = 1 %}
-{% set md5 = "09f24ffd9af9f6cd0f63cb9f4e23d4b2" %}
+{% set sha256 = "f6253dfbe0538ad2e387bd8fdfd9293c925d63553f5813c4e587745416501e6d" %}
 
 package:
   name: {{ name|lower }}
@@ -11,7 +11,7 @@ package:
 source:
   fn: {{ name }}-{{ version }}-{{ subversion }}.tar.gz
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}-{{ subversion }}.tar.gz
-  md5: {{ md5 }}
+  sha256: {{ sha256 }}
 
 build:
   number: {{ number }}
